@@ -1,0 +1,33 @@
+_repo: Names-and-Their-Meaning-A-Book-for-the-Curious_52930
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wagner, Leopold
+    birthdate: 1858
+    gutenberg_agent_id: '38467'
+    url: http://www.gutenberg.org/2009/agents/38467
+description: ''
+gutenberg_issued: '2016-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AG'
+- !lcsh 'Names'
+- GITenberg
+tableOfContents: The countries of the world -- The months and days of the week --
+  Creeds, sects, and denominations -- Tavern signs -- Royal surnames -- National nicknames
+  -- Birds -- Religious orders -- Paper and printing -- Political nicknames -- Flowers
+  -- The Bible -- Wines -- Literary sobriquets -- The counties of England and Wales
+  -- Carriages -- Dances -- Pigments and dyes -- London districts and suburbs -- Battles
+  -- Notable days and festivals -- Textiles, embroideries, and lace -- Literary pseudonyms
+  -- Counterfeit presentments -- London inns and gardens -- Sobriquets and nicknames
+  -- The Inns of Court -- Races -- London churches and buildings -- Class names and
+  nicknames -- Malt liquors -- Diamonds and precious stones -- Naval and military
+  sobriquets -- Money -- Spirits -- London streets and squares.
+title: 'Names: and Their Meaning; A Book for the Curious'
+url: http://www.gutenberg.org/ebooks/52930
